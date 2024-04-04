@@ -48,4 +48,4 @@ Thumbs.db
 #additional
 /.angular
 /.vscode
-.package-lock.json
+/package-lock.json
